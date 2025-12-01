@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg](https://www.google.com/imgres?q=python%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F2048px-Python-logo-notext.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&docid=X6b2dkbhySknGM&tbnid=-uyhwV8-lOCR8M&vet=12ahUKEwimo7Orpp2RAxUrTUEAHYpINTQQM3oECBYQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwimo7Orpp2RAxUrTUEAHYpINTQQM3oECBYQAA)" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
@@ -56,15 +56,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 <!--
 **BenMorg06/BenMorg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
