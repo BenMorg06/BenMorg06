@@ -1,18 +1,18 @@
-# Hi I'm Ben
+# Hi I'm Ben 👋
 
 ## 💫 About Me:
 2nd Year Computer Science Student at The University of Leeds with passion for cybersecurity, operating systems and mathematics. I'm focussed on building practical skills through hands-on projects and exploring the inner workings of systems security.
 
-### Current Interests
+### 🌿 Current Interests
 - Cybersecurity
 - Operating Systems
 - Building Secure and Efficient Applications
 
-### Currently Developing
+### 🌱 Currently Developing
 - C programming skils
 - Cloud security protocols
 
-### Goals
+### 🌳 Goals
 - Contribute to open-source security tools
 - Gain practical experience through CTF's and Hackathons
 
