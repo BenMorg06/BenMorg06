@@ -9,11 +9,11 @@
 - Building Secure and Efficient Applications
 
 ### 🌱 Currently Developing
-- C programming skils
-- Cloud security protocols
+- Secure P2P File Transfer CLI
+- C Programming Skills
 
 ### 🌳 Goals
-- Contribute to open-source security tools
+- Create practical security projects
 - Gain practical experience through CTF's and Hackathons
 
 
